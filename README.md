@@ -8,6 +8,5 @@
 
 # Some of my projects
 
-- Rahal Cosmos'21
 - [OnClass](https://onclass.tk)
 - [More Bubbles](https://morebubbles.netlify.app)
