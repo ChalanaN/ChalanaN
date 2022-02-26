@@ -1,9 +1,9 @@
 # Little bit about me
 
 - 👋 Hi, I’m Chalana Nethsara
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in JavaScript and TypeScript
 - 🟦 I’m currently learning at Rahula College - Matara 🟨
-- ✨ Proud member of Rahula College Astronomical Society
+- ✨ Vice President of Rahula College Astronomical Society
 - 📫 wchalanaw@gmail.com
 
 # Some of my projects
